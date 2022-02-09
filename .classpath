@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/extentreports-3.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/galen-core-2.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/mail.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Workspace/Prot Java/drivers/testng-6.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
